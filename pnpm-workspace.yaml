@@ -12,5 +12,5 @@ catalog:
   solid-js: ^1.9.13
   tsx: ^4.22.4
   typescript: ^5.9.3
-  vite: ^8.0.16
+  vite: ^6.4.5
   vue: ^3.5.35
