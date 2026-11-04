@@ -6,7 +6,7 @@
     "dev": "tsx src/index.ts"
   },
   "dependencies": {
-    "@hono/node-server": "^1.19.15",
+    "@hono/node-server": "^2.1.3",
     "pua-font-obfuscator": "workspace:*",
     "hono": "catalog:"
   },
